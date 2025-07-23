@@ -1,10 +1,10 @@
-# 📚 Bookstore Inventory Management System
+# Bookstore Inventory Management System
 
 A simple JavaScript-based system for managing a bookstore's inventory, supporting searching, stock management, and sales processing.
 
 ---
 
-## 🔧 Features
+## Features
 
 - **Book Constructor**
   - Creates book objects with title, author, edition, pages, date published, price, genre, and quantity.
@@ -19,7 +19,7 @@ A simple JavaScript-based system for managing a bookstore's inventory, supportin
 
 ---
 
-## 🔍 Search Functions
+## Search Functions
 
 | Function | Description |
 |----------|-------------|
@@ -30,7 +30,7 @@ A simple JavaScript-based system for managing a bookstore's inventory, supportin
 
 ---
 
-## 📦 Inventory Management
+## Inventory Management
 
 | Function | Description |
 |----------|-------------|
@@ -39,7 +39,7 @@ A simple JavaScript-based system for managing a bookstore's inventory, supportin
 
 ---
 
-## 💰 Sales Handling
+## Sales Handling
 
 | Function | Description |
 |----------|-------------|
@@ -50,9 +50,3 @@ A simple JavaScript-based system for managing a bookstore's inventory, supportin
 ## 📁 Book Data
 
 Includes 20 classic and modern titles from various genres such as **Dystopian**, **Fantasy**, **Romance**, **Historical Fiction**, and more.
-
----
-
-## 🚀 Usage
-
-Include the script in a browser-based JavaScript environment and call the relevant functions in the console to interact with the bookstore system.
